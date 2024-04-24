@@ -16,3 +16,8 @@
     Generic yordamida classlar tezz iwlaydi sababi siz uning tipini kiritoib quygan bulasiz.
 
 
+4 - savol :
+
+    javada Collection heirary u Itarbl classdan interfiydan Impl olga
+    turli obyektlarni saqlaw va bowqarish un kk.
+    asosiy interfiyslar Set  List,  Queue.
