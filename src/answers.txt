@@ -1,0 +1,7 @@
+1 - savol:
+    LinkedList elementlarini saqlashda DoubleLinkedListdan foydalanadi Arraylis esa arrayda saqlaydi.
+
+    ArrayList yaratilganda 10 uzunlikdagi array yaratiladi LenkedListda esa Yangi Node Yaratiladi
+    Ishlashida Arraylist seknroq LinkidListga qaraganda sabab arralist amalyot bajarganda quwaganda yo ocirganda hammasini surib ciqiwi
+    kk .
+    Arraylist List interfiysdan IMPL olgan LinkedList esa List va Deque dan adawmasam.
