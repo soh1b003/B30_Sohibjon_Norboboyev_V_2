@@ -5,3 +5,6 @@
     Ishlashida Arraylist seknroq LinkidListga qaraganda sabab arralist amalyot bajarganda quwaganda yo ocirganda hammasini surib ciqiwi
     kk .
     Arraylist List interfiysdan IMPL olgan LinkedList esa List va Deque dan adawmasam.
+
+2 - savol
+
