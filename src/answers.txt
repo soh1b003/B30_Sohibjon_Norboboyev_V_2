@@ -5,3 +5,14 @@
     Ishlashida Arraylist seknroq LinkidListga qaraganda sabab arralist amalyot bajarganda quwaganda yo ocirganda hammasini surib ciqiwi
     kk .
     Arraylist List interfiysdan IMPL olgan LinkedList esa List va Deque dan adawmasam.
+
+2 - savol :
+
+    LinkedHashMap u malumotlarni Node kurinishida saqlaydi.
+    LinkedHashMap malumotlarni kiriw tartibida saqlaydi. yani sort qilmaydi.
+
+3 - savol :
+    Generic bu taypSiyfdi undan foydalanishdan maqsad qabul Classni qabul qiluvci qiymatini belgilab quyish.
+    Generic yordamida classlar tezz iwlaydi sababi siz uning tipini kiritoib quygan bulasiz.
+
+
